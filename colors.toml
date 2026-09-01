@@ -1,0 +1,36 @@
+# Delta - Light
+# White body. Every slot is a red, a blue or a blue-grey.
+mode = "light"
+
+accent = "#002f6c"
+hyprland_active_border = "rgba(6cace4ff) rgba(002f6cff) rgba(c8102eff) 45deg"
+selection = "#cfe4f7"
+muted = "#5f6f85"
+
+background = "#ffffff"
+dark_background = "#f0f4f9"
+darker_background = "#e3eaf2"
+lighter_background = "#eaf1fa"
+
+foreground = "#0a1f42"
+dark_foreground = "#5c6b82"
+light_foreground = "#243a5e"
+bright_foreground = "#00122e"
+
+red = "#c8102e"
+orange = "#a01a2c"
+magenta = "#7a1030"
+brown = "#5c1520"
+
+blue = "#002f6c"
+cyan = "#2b8fd0"
+green = "#1a6ba8"
+yellow = "#46607f"
+
+bright_red = "#9c0a22"
+bright_orange = "#7d1222"
+bright_magenta = "#5c0c24"
+bright_blue = "#001f4a"
+bright_cyan = "#1a6ea8"
+bright_green = "#0f5182"
+bright_yellow = "#33485f"
